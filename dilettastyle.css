@@ -1,0 +1,31 @@
+body {
+  background-color: #dd2c00;
+}
+
+h1 {
+  color: #00bcd4;
+  font-size: 100px;
+  font-family: cursive;
+  width: 60%;
+}
+
+p {
+  font-size: 24px;
+  font-family: cursive;
+  border-style: dotted;
+  border-color: #ff5722;
+  border-width: 20px;
+  width: 40%;
+}
+
+.a {
+  background-color: #00bcd4;
+}
+
+.b {
+  background-color: #ff5722;
+}
+
+.circular {
+  border-radius: 50px 50px 50px 50px / 50px 50px 50px 50px;
+}
